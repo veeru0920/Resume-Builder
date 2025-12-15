@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "name": "Viraj Borusu",
+      "email": "nagavirajborusu@gmail.com",
+      "subject": "Resume Builder Feature Request",
+      "message": "Hi, I would like to request a feature for exporting resumes in multiple formats. This would be really helpful!",
+      "sentAt": "2025-12-02T10:30:00.000Z",
+      "userId": 1,
+      "status": "read"
+    },
+    {
+      "id": 2,
+      "name": "Siddi",
+      "email": "siddisathvik2506@gmail.com",
+      "subject": "Technical Support",
+      "message": "I'm having trouble saving my resume. It keeps showing an error message. Can you help?",
+      "sentAt": "2025-12-03T02:15:45.000Z",
+      "userId": 2,
+      "status": "unread"
+    }
+  ]
+}

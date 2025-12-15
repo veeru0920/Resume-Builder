@@ -1,0 +1,281 @@
+{
+  "resumes": [
+    {
+      "name": "Naga Viraj Borusu",
+      "title": "fcvbjml,",
+      "phone": "09955499773",
+      "email": "hgbvs",
+      "linkedin": "hhnbgfc",
+      "github": "gbdsc",
+      "website": "gbvfc",
+      "location": "hgbfc",
+      "summary": " rgdsak;s\n wrw vmiiz",
+      "skills": {
+        "programming": "",
+        "frameworks": "g grecxs",
+        "databases": "",
+        "tools": " gd",
+        "softskills": "hngb vdc"
+      },
+      "experience": [
+        {
+          "title": "",
+          "company": "g fdcs",
+          "location": "",
+          "duration": "rgbefb c",
+          "details": "g hgbvdc  gbv "
+        }
+      ],
+      "projects": [
+        {
+          "name": " hgbdjkm",
+          "stack": "",
+          "description": "",
+          "link": ""
+        },
+        {
+          "name": "",
+          "stack": "",
+          "description": "",
+          "link": ""
+        }
+      ],
+      "education": [
+        {
+          "degree": "yuubj,m ",
+          "institution": "",
+          "duration": "",
+          "cgpa": ""
+        }
+      ],
+      "certifications": [],
+      "achievements": [
+        "kj ,"
+      ],
+      "volunteer": [],
+      "languages": "english",
+      "userId": 1,
+      "template": "modern",
+      "savedAt": "2025-12-02T17:10:55.294Z",
+      "id": 1
+    },
+    {
+      "name": "Siddi",
+      "title": "Web developer",
+      "phone": "9440819215",
+      "email": "siddisathvik2506@gmail.com",
+      "linkedin": "ga",
+      "github": "jhad",
+      "website": "jfs",
+      "location": "bsj",
+      "summary": "bsj",
+      "skills": {
+        "programming": "hksf",
+        "frameworks": "bj",
+        "databases": "fjs",
+        "tools": "dsj",
+        "softskills": "bsfj"
+      },
+      "experience": [
+        {
+          "title": "bjs",
+          "company": "bfs",
+          "location": "bs",
+          "duration": "ksf",
+          "details": "bd"
+        }
+      ],
+      "projects": [
+        {
+          "name": "sbdj",
+          "stack": "jbsf",
+          "description": "bjds",
+          "link": "fhw"
+        }
+      ],
+      "education": [
+        {
+          "degree": " kdw",
+          "institution": "sbjf",
+          "duration": "6452",
+          "cgpa": "8.0"
+        }
+      ],
+      "certifications": [
+        "dsj",
+        "s"
+      ],
+      "achievements": [
+        "dsb",
+        "Research"
+      ],
+      "volunteer": [],
+      "languages": "agdf,dsgh,bdsy",
+      "userId": 2,
+      "template": "elegant",
+      "savedAt": "2025-12-03T04:40:54.851Z",
+      "id": 2
+    },
+    {
+      "name": "v",
+      "title": "dv",
+      "phone": "784523651",
+      "email": "v.v@gmail.com",
+      "linkedin": "chdvh",
+      "github": "bdvj",
+      "website": "dkbv",
+      "location": "",
+      "summary": "dkjfcvhdvbfkdh",
+      "skills": {
+        "programming": "cedf",
+        "frameworks": "edfg",
+        "databases": "fsugb",
+        "tools": "ssjfbvc",
+        "softskills": "shdf"
+      },
+      "experience": [],
+      "projects": [],
+      "education": [],
+      "certifications": [],
+      "achievements": [],
+      "volunteer": [],
+      "languages": "e,h,t",
+      "userId": 9,
+      "template": "modern",
+      "savedAt": "2025-12-04T09:46:12.043Z",
+      "id": 3
+    },
+    {
+      "name": "Vijay",
+      "title": "JOB",
+      "phone": "630",
+      "email": "VI@gmail.com",
+      "linkedin": "vianatab",
+      "github": "vghagij",
+      "website": "bvjgyugjng",
+      "location": "tade",
+      "summary": "bfthrtijlknyut",
+      "skills": {
+        "programming": "programming",
+        "frameworks": "vjhaj",
+        "databases": "CSE",
+        "tools": "Java",
+        "softskills": "C++"
+      },
+      "experience": [
+        {
+          "title": "hghjgsaioh",
+          "company": "nbjhi",
+          "location": "bvht",
+          "duration": "jhiuy",
+          "details": "hjy"
+        }
+      ],
+      "projects": [
+        {
+          "name": "",
+          "stack": "",
+          "description": "",
+          "link": ""
+        },
+        {
+          "name": "bjhtyyio",
+          "stack": "hihk",
+          "description": "jy8",
+          "link": "mbgiu"
+        }
+      ],
+      "education": [
+        {
+          "degree": "",
+          "institution": "gu6y97io",
+          "duration": "",
+          "cgpa": ""
+        },
+        {
+          "degree": "",
+          "institution": "",
+          "duration": "",
+          "cgpa": ""
+        }
+      ],
+      "certifications": [
+        "ghiuyup"
+      ],
+      "achievements": [
+        "kytufg"
+      ],
+      "volunteer": [],
+      "languages": "Hindi",
+      "userId": 9,
+      "template": "modern",
+      "savedAt": "2025-12-04T09:50:44.516Z",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Viraj Borusu",
+      "email": "nagavirajborusu@gmail.com",
+      "password": "jaihind",
+      "createdAt": "2025-12-02T16:33:09.069Z",
+      "id": 1
+    },
+    {
+      "name": "Siddi",
+      "email": "siddisathvik2506@gmail.com",
+      "password": "Datta@143",
+      "createdAt": "2025-12-03T04:38:46.906Z",
+      "id": 2
+    },
+    {
+      "name": "Siddi",
+      "email": "hday@gmail.com",
+      "password": "da",
+      "createdAt": "2025-12-03T04:47:20.013Z",
+      "id": 3
+    },
+    {
+      "name": "Kiran",
+      "email": "kirankumar@gmail.com",
+      "password": "kiran@123",
+      "createdAt": "2025-12-03T05:05:13.327Z",
+      "id": 4
+    },
+    {
+      "name": "raju",
+      "email": "devarajhansi974@gmail.com",
+      "password": "devaraj@974",
+      "createdAt": "2025-12-03T07:29:35.918Z",
+      "id": 5
+    },
+    {
+      "name": "Veeru",
+      "email": "veeru@gmail.com",
+      "password": "veeru@123",
+      "createdAt": "2025-12-04T06:44:28.941Z",
+      "id": 6
+    },
+    {
+      "name": "veeru",
+      "email": "veeru.v@gmail.com",
+      "password": "veeru123",
+      "createdAt": "2025-12-04T09:23:33.390Z",
+      "id": 7
+    },
+    {
+      "name": "Vijay",
+      "email": "vijayrajk@gmail.com",
+      "password": "Vijay@1977",
+      "createdAt": "2025-12-04T09:43:20.756Z",
+      "id": 8
+    },
+    {
+      "name": "v",
+      "email": "veeru.v1@gmail.com",
+      "password": "veeru123",
+      "createdAt": "2025-12-04T09:45:12.978Z",
+      "id": 9
+    }
+  ]
+}
